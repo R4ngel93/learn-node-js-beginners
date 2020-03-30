@@ -1,0 +1,1 @@
+console.info('Hello from Node.js');
